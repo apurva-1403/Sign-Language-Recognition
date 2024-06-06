@@ -1,5 +1,8 @@
 # Sign Language Recognition
 
+![image](https://github.com/apurva-1403/Sign-Language-Recognition/assets/108210483/56905d75-8a66-42d0-9604-a6f53617a24f)
+![image](https://github.com/apurva-1403/Sign-Language-Recognition/assets/108210483/4692a7f3-8136-4b7e-ad6a-41b70920414a)
+
 ## Introduction
 
 Sign language recognition involves converting sign language gestures into text or speech. This project focuses on implementing American Sign Language (ASL) translation using landmark detection to convert ASL gestures into text by analyzing hand movements through detected landmark points.
@@ -35,6 +38,9 @@ The dataset includes diverse hand orientations, lighting conditions, and backgro
    - New Coordinates + Distances + Handedness
 3. **Machine Learning Model**: Random Forest Classifier
 4. **Output**: Predicted Class
+
+   ![image](https://github.com/apurva-1403/Sign-Language-Recognition/assets/108210483/9174c303-c6a8-4aec-89b3-2770d0f1a530)
+
 
 ## Results & Conclusion
 
