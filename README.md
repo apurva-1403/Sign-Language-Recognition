@@ -57,10 +57,6 @@ The project achieved a validation accuracy of approximately 93%, indicating that
 - [Sign Language Recognition with Mediapipe Hands](https://techcrunch.com/2019/08/19/this-hand-tracking-algorithm-could-lead-to-sign-language-recognition/)
 - [IEEE Research Paper](https://ieeexplore.ieee.org/document/9908995)
 
-## Repository Links
-
-- [GitHub Repository](https://github.com/apurva-1403/Sign-Language-Recognition)
-
 ---
 
 Thank you for exploring the Sign Language Recognition project!
